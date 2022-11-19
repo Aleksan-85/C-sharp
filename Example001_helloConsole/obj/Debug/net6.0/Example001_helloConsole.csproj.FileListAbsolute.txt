@@ -1,0 +1,15 @@
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.exe
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.deps.json
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.runtimeconfig.json
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.dll
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.pdb
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.AssemblyReference.cache
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfoInputs.cache
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfo.cs
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.CoreCompileInputs.cache
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.dll
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\refint\Example001_helloConsole.dll
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.pdb
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.genruntimeconfig.cache
+D:\Саша\GeekBrains\Уроки\3. Знакомство с языками програмирования\leccon C#\Examples\Example001_helloConsole\obj\Debug\net6.0\ref\Example001_helloConsole.dll
